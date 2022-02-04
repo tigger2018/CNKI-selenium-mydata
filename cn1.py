@@ -3,7 +3,7 @@
     知网论文数据爬取
 '''
 from bs4 import BeautifulSoup
-from selenium import webdriver
+from selenium import webdriver 
 import time
 import requests
 import csv
